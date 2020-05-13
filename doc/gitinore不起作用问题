@@ -1,0 +1,5 @@
+解决办法
+在项目所以目录：
+git rm -r --cached .
+git add .
+git commit -m "update gitignore"
