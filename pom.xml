@@ -12,7 +12,6 @@
         <module>java_thread</module>
         <module>java_Timer</module>
         <module>Java_Ping</module>
-        <module>java_thread</module>
     </modules>
 
 
